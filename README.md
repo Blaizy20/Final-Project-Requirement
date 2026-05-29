@@ -1,5 +1,13 @@
 # CredenceLend
 
+By:
+
+## Developers
+
+- **[Engay, John Lloyd S.]** — Mobile Developer
+- **[Estrella, John Senen H.]** — Backend and Database
+- **[Olivarez, Alliah Marie O.]** — Web Developer
+
 A multi-tenant cooperative lending platform available on both **Web** and **Mobile**. Designed to streamline loan management, member onboarding, and cooperative operations across multiple tenants.
 
 ***
