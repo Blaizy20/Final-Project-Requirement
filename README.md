@@ -46,23 +46,11 @@ A multi-tenant cooperative lending platform available on both **Web** and **Mobi
 
 ### Staff Accounts (Web)
 
-#### Receptionist
+#### Manager
 | Field | Value |
 |-------|-------|
-| **Username** | `[RECEPTIONIST_USERNAME]` |
-| **Password** | `[RECEPTIONIST_PASSWORD]` |
-
-#### Clerk
-| Field | Value |
-|-------|-------|
-| **Username** | `[CLERK_USERNAME]` |
-| **Password** | `[CLERK_PASSWORD]` |
-
-#### Driver
-| Field | Value |
-|-------|-------|
-| **Username** | `[DRIVER_USERNAME]` |
-| **Password** | `[DRIVER_PASSWORD]` |
+| **Username** | `[MANAGER_USERNAME]` |
+| **Password** | `[MANAGER_PASSWORD]` |
 
 > Placeholders — to be updated by the assigned developer.
 
