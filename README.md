@@ -82,7 +82,7 @@ Customers access the platform through the mobile app. The onboarding flow requir
 
 | Layer | Technology |
 |-------|------------|
-| **Frontend (Web)** | React + TypeScript |
+| **Web** | PHP + CSS |
 | **Backend** | Node.js + Express |
 | **Database** | MySQL |
 | **Mobile** | React + Capacitor |
