@@ -98,8 +98,8 @@ Customers access the platform through the mobile app. The onboarding flow requir
 
 | Field | Value |
 |-------|-------|
-| **Cooperative Code** | `Q36ZHD` |
-| **Username** | `typeshift` |
+| **Cooperative Code** | `QU5633` |
+| **Username** | `testuser` |
 | **Password** | `testpassword` |
 
 ***
