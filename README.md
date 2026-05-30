@@ -56,17 +56,23 @@ A multi-tenant cooperative lending platform available on both **Web** and **Mobi
 | **Username** | `test_manager` |
 | **Password** | `Password123!` |
 
+***
+
 #### CI
 | Field | Value |
 |-------|-------|
 | **Username** | `test_cii` |
 | **Password** | `Password123!` |
 
+***
+
 #### Cashier
 | Field | Value |
 |-------|-------|
 | **Username** | `test_cashier` |
 | **Password** | `Password123!` |
+
+***
 
 #### Loan Officer
 | Field | Value |
