@@ -23,8 +23,8 @@ A multi-tenant cooperative lending platform available on both **Web** and **Mobi
 
 | Repository | Link |
 |------------|------|
-| **Web (CredenceLendV1)** | [github.com/Frehitzz/CredenceLendV1](https://github.com/Frehitzz/CredenceLendV1) |
-| **Mobile (CredenceLend-mobile)** | [github.com/Blaizy20/CredenceLend-mobile](https://github.com/Blaizy20/CredenceLend-mobile) |
+| **Web (CredenceLendV1)** | [CredenceLendV1](https://nationalueduph-my.sharepoint.com/:u:/g/personal/olivarezamo_students_nu-baliwag_edu_ph/IQA4oovQ-WsPRZQQFf4PddP_AZXv3hHN8uISsC6a1jRxR0s?e=NNejZb) |
+| **Mobile (CredenceLend-mobile)** | [CredenceLend-mobile](https://github.com/Blaizy20/CredenceLend-mobile) |
 
 ***
 
