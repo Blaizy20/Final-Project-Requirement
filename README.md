@@ -43,10 +43,8 @@ A multi-tenant cooperative lending platform available on both **Web** and **Mobi
 ### Tenant
 | Field | Value |
 |-------|-------|
-| **Username** | `[TENANT_USERNAME]` |
-| **Password** | `[TENANT_PASSWORD]` |
-
-> Placeholder — to be updated by the assigned developer.
+| **Username** | `test_admin_1` |
+| **Password** | `Password123!` |
 
 ***
 
@@ -55,10 +53,26 @@ A multi-tenant cooperative lending platform available on both **Web** and **Mobi
 #### Manager
 | Field | Value |
 |-------|-------|
-| **Username** | `[MANAGER_USERNAME]` |
-| **Password** | `[MANAGER_PASSWORD]` |
+| **Username** | `test_manager` |
+| **Password** | `Password123!` |
 
-> Placeholders — to be updated by the assigned developer.
+#### CI
+| Field | Value |
+|-------|-------|
+| **Username** | `test_cii` |
+| **Password** | `Password123!` |
+
+#### Cashier
+| Field | Value |
+|-------|-------|
+| **Username** | `test_cashier` |
+| **Password** | `Password123!` |
+
+#### Loan Officer
+| Field | Value |
+|-------|-------|
+| **Username** | `test_loan_officer` |
+| **Password** | `Password123!` |
 
 ***
 
